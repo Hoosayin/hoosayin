@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, there! 👋
 
-<!--
-**Hoosayin/hoosayin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hussain, a passionate Software Developer from Pakistan. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MFC Projects for Oil&Gas Exploration.
+- 🌱 I’m currently learning Microsoft Windows Presentation Foundation (WPF).
+- 💬 Ask me about [Topics you're knowledgeable in].
+- 📫 How to reach me: hoosayin.cs@gmail.com
+- 😄 Pronouns: he/him
+
+## Tech Stack
+
+- Programming Languages: C/C++, C#, Visual Basic, Javascript.
+- Frameworks & Libraries: MFC, Mircosoft Bot Framework, WinFroms, WebForms, ReactJS, ExpressJS, OpenDIS.
+- Tools & Technologies: Visual Studio, VSCode, Cmake, InteliJ Idea, Docker, Firebase, Heroku, Azure.
+- Databases: Microsoft SQL Server, MySQL, Oracle Database, Firebase Real-time Database, Azure Cosmos DB.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoosayin&show_icons=true&count_private=true&theme=radical)
