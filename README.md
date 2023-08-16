@@ -6,7 +6,7 @@ I'm Hussain, a passionate Software Developer from Pakistan. Welcome to my GitHub
 
 - 🔭 I’m currently working on MFC Projects for Oil&Gas Exploration.
 - 🌱 I’m currently learning Microsoft Windows Presentation Foundation (WPF).
-- 💬 Ask me about [Topics you're knowledgeable in].
+- 💬 Ask me about C/C++ Standards, IEEE DIS v7, OOP.
 - 📫 How to reach me: hoosayin.cs@gmail.com
 - 😄 Pronouns: he/him
 
